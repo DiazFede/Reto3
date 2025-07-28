@@ -11,6 +11,7 @@
   "dependencies": {
     "@copilotkit/react-core": "^1.9.3",
     "@copilotkit/react-ui": "^1.9.3",
+    "jspdf": "^3.0.1",
     "next": "15.4.3",
     "react": "19.1.0",
     "react-dom": "19.1.0"
